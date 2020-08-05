@@ -11,12 +11,12 @@ While the focus is on anti-racism, any resources are welcome that help to shine 
 
 ## Books
 
-* Cole, Desmond.  [*The Skin We're In Cole*](https://www.penguinrandomhouse.ca/b=ooks/536075/the-skin-were-in-by-desmond-cole/9780385686341).  Double Day Canada, 2020
+* Cole, Desmond.  [*The Skin We're In*](https://www.penguinrandomhouse.ca/b=ooks/536075/the-skin-were-in-by-desmond-cole/9780385686341).  Double Day Canada, 2020
 * Maynard, Robyn [*Policing Black Lives: State Violence in Canada from Slavery to the Present*](https://fernwoodpublishing.ca/book/policing-black-lives), Fernwood Publishing, 2017
 
 ### Government Reports
 * [Reclaiming Power and Place](https://www.mmiwg-ffada.ca/final-report/): The Final Report of the National Inquiry into Missing and Murdered Indigenous Women and Girls
-* [Interrupted childhoods: Over-representation of Indigenous and Black children in Ontario child welfare](http://www.ohrc.on.ca/en/interrupted-childhoods)
+* [Interrupted childhoods](http://www.ohrc.on.ca/en/interrupted-childhoods): Over-representation of Indigenous and Black children in Ontario child welfare
 
 
 ## Articles
@@ -41,7 +41,7 @@ While the focus is on anti-racism, any resources are welcome that help to shine 
 ## Documentaries
 
 * [Invasion](https://unistoten.camp/media/invasion/); INVASION is a new film about the Unist’ot’en Camp, Gidimt’en checkpoint and the larger Wet’suwet’en Nation standing up to the Canadian government and corporations who continue colonial violence against Indigenous people.
-*
+
 ### The National Film Board  of Canada Anti-Racist Documentaries
 [This collection](https://www.nfb.ca/playlist/anti-racism-films/) covers a range of topics dealing with racism and discrimination across sports, education, business and communities.
 * [For Angela](https://www.nfb.ca/playlists/anti-racism-films/playback/), [1993], This short film portrays the experiences of Rhonda Gordon and her daughter, Angela, when a simple bus ride changes their lives in an unforeseeable way.
@@ -51,7 +51,6 @@ While the focus is on anti-racism, any resources are welcome that help to shine 
 ## Blogs
 
 * [Desmond Cole](https://thatsatruestory.wordpress.com/); Desmond Cole is an activist, freelance journalist, and author of the new bestselling book “The Skin We’re In: A year of Black Resistance and Power”.
-
 
 ## Podcasts
 * [Canadaland](https://www.canadalandshow.com/); This is not specifically an anti-racist podcast, but many episodes cover racism and issues faced by BIPOC and under-represented folks), including representation of voices that might not find other audiences.
